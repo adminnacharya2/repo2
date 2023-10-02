@@ -1,1 +1,2 @@
 a second file created in remote repo in GUI
+new line is added here
